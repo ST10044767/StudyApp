@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\source\repos\StudyApp3\obj\Debug\net6.0-windows\StudyApp3.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\StudyApp3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lab_services_student\source\repos\StudyApp3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\source\repos\StudyApp3\obj\Debug\net6.0-windows\MainWindow2.g.cs
+C:\Users\lab_services_student\source\repos\StudyApp3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lab_services_student\source\repos\StudyApp3\obj\Debug\net6.0-windows\StudyApp3_MarkupCompile.cache
+C:\Users\lab_services_student\source\repos\StudyApp3\obj\Debug\net6.0-windows\StudyApp3_MarkupCompile.lref
